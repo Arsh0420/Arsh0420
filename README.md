@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arsh0420
+- 👋 Hi, I’m Arshdeep Singh but I like to go by Arsh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me LinkedIn or reosingh5@gmail.com
